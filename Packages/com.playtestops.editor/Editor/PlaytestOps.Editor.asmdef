@@ -1,0 +1,9 @@
+{
+  "name": "PlaytestOps.Editor",
+  "rootNamespace": "PlaytestOps.Editor",
+  "references": ["UnityEditor.TestRunner"],
+  "includePlatforms": ["Editor"],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"],
+  "autoReferenced": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "com.playtestops.editor",
+  "version": "0.5.1",
+  "displayName": "PlaytestOps Editor",
+  "description": "Editor-only playtests, dashboard synchronization, read-only UVCS, Windows build settings and preserved local player builds with live logs.",
+  "unity": "6000.6",
+  "dependencies": {
+    "com.unity.test-framework": "1.8.0"
+  },
+  "samples": [
+    {
+      "displayName": "Bridge Smoke Tests",
+      "description": "Small EditMode and PlayMode checks, including an explicitly selected intentional failure.",
+      "path": "Samples~/BridgeSmokeTests"
+    },
+    {
+      "displayName": "Connection Log Smoke Tests",
+      "description": "Two passing placeholders emitting expected debug, warning and error logs in EditMode and PlayMode.",
+      "path": "Samples~/ConnectionLogSmokeTests"
+    }
+  ]
+}

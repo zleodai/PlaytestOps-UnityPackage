@@ -1,0 +1,8 @@
+{
+  "name": "PlaytestOps.Runtime",
+  "rootNamespace": "PlaytestOps.RuntimeStreaming",
+  "references": ["Unity.WebRTC", "Unity.InputSystem"],
+  "includePlatforms": ["Editor", "WindowsStandalone64"],
+  "autoReferenced": true,
+  "allowUnsafeCode": false
+}

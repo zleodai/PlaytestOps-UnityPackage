@@ -1,0 +1,6 @@
+{
+  "name": "PlaytestOps.Runtime.Editor",
+  "rootNamespace": "PlaytestOps.RuntimeStreaming.Editor",
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

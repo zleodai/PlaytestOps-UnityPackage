@@ -1,0 +1,8 @@
+{
+  "name": "PlaytestOps.Runtime.Tests",
+  "rootNamespace": "PlaytestOps.RuntimeStreaming.Tests",
+  "references": ["PlaytestOps.Runtime", "Unity.InputSystem"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

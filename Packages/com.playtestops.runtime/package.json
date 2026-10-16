@@ -1,0 +1,14 @@
+{
+  "name": "com.playtestops.runtime",
+  "version": "0.1.0",
+  "displayName": "PlaytestOps Runtime Streaming",
+  "description": "Optional authenticated built-player framebuffer streaming and session-scoped virtual input. Explicit launch configuration is required. WebRTC is isolated in this package.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.webrtc": "3.0.0",
+    "com.unity.inputsystem": "1.14.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0"
+  }
+}

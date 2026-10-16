@@ -1,0 +1,5 @@
+{
+  "name": "PlaytestOps.LogSmoke.EditMode",
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

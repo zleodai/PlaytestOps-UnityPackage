@@ -1,0 +1,4 @@
+{
+  "name": "PlaytestOps.Smoke.PlayMode",
+  "optionalUnityReferences": ["TestAssemblies"]
+}

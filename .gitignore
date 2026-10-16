@@ -1,0 +1,21 @@
+# Generated Unity/project state is not part of these UPM packages.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+*.csproj
+*.sln
+*.slnx
+*.user
+*.log
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
